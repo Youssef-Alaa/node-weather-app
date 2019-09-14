@@ -1,0 +1,2 @@
+locationiq: 9be1db9ad9f87c
+darksky/forecast : 4db3f8cab4fa4e420f31241c8289185a
